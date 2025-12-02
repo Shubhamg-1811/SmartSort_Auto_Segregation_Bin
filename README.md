@@ -2,7 +2,7 @@
 
 A smart, automated waste management system that uses **Computer Vision** and **IoT** to segregate waste into **Biodegradable** and **Non-Biodegradable** categories. Powered by a Raspberry Pi 4 and a custom TensorFlow Lite model.
 
-![Prototype Image](images/prototype.jpg)
+![Prototype Image](images/prototype.png)
 
 ## 📋 Project Overview
 This project solves the problem of improper waste disposal at the source. The bin operates autonomously using a "Sense-Think-Act" pipeline:
